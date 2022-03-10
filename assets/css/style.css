@@ -397,8 +397,8 @@ h1, h2, h3, h4, h5, h6 {
 #hero {
   width: 100%;
   height: 75vh;
-  background: url("../img/hero-bg.jpg") top left;
-  background-size: cover;
+  background: url("https://d2gg9evh47fn9z.cloudfront.net/800px_COLOURBOX22243987.jpg") top left;
+  background-size: cover no-repeat;
   position: relative;
 }
 #hero:before {
