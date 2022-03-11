@@ -1,15 +1,8 @@
-/**
-* Template Name: BizLand - v3.7.0
-* Template URL: https://bootstrapmade.com/bizland-bootstrap-business-template/
-* Author: BootstrapMade.com
-* License: https://bootstrapmade.com/license/
-*/
-
 /*--------------------------------------------------------------
 # General
 --------------------------------------------------------------*/
 body {
-  font-family: "Open Sans", sans-serif;
+  font-family: "Open Sans", sans-serif
   color: #444444;
 }
 
@@ -398,7 +391,7 @@ h1, h2, h3, h4, h5, h6 {
   width: 100%;
   height: 75vh;
   background: url("https://d2gg9evh47fn9z.cloudfront.net/800px_COLOURBOX22243987.jpg") top left;
-  background-size: cover no-repeat;
+  background-size: center cover no-repeat;
   position: relative;
 }
 #hero:before {
