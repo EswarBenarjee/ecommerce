@@ -35,7 +35,7 @@ function shoes_slider() {
 shoes_slider();
 
 function crocks_slider() {
-    for(i = 1; i <= 16; i++) {
+    for(i = 1; i <= 10; i++) {
         const node = document.createElement("img");
         node.src = 'assets/img/crocks/img ('+i+').jpg';
         document.getElementById("crocks-slider").appendChild(node);
@@ -44,7 +44,7 @@ function crocks_slider() {
 crocks_slider();
 
 function slides_slider() {
-    for(i = 1; i <= 35; i++) {
+    for(i = 1; i <= 10; i++) {
         const node = document.createElement("img");
         node.src = 'assets/img/slides/img ('+i+').jpg';
         document.getElementById("slides-slider").appendChild(node);
