@@ -1,5 +1,5 @@
 function shirts_slider() {
-    for(i = 1; i <= 50; i++) {
+    for(i = 1; i <= 10; i++) {
         const node = document.createElement("img");
         node.src = 'assets/img/shirts/img ('+i+').jpg';
         document.getElementById("shirts-slider").appendChild(node);
@@ -8,7 +8,7 @@ function shirts_slider() {
 shirts_slider();
 
 function watches_slider() {
-    for(i = 1; i <= 467; i++) {
+    for(i = 1; i <= 10; i++) {
         const node = document.createElement("img");
         node.src = 'assets/img/watches/img ('+i+').jpg';
         document.getElementById("watches-slider").appendChild(node);
@@ -17,7 +17,7 @@ function watches_slider() {
 watches_slider();
 
 function belts_slider() {
-    for(i = 1; i <= 18; i++) {
+    for(i = 1; i <= 10; i++) {
         const node = document.createElement("img");
         node.src = 'assets/img/belts/img ('+i+').jpg';
         document.getElementById("belts-slider").appendChild(node);
@@ -26,7 +26,7 @@ function belts_slider() {
 belts_slider();
 
 function shoes_slider() {
-    for(i = 1; i <= 197; i++) {
+    for(i = 1; i <= 10; i++) {
         const node = document.createElement("img");
         node.src = 'assets/img/shoes/img ('+i+').jpg';
         document.getElementById("shoes-slider").appendChild(node);
